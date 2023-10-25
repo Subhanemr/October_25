@@ -5,9 +5,36 @@ namespace _25_10_23
     internal class Program
     {
         private static List<string> Names = new List<string>();
-        private static string databasePath = @"C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\Files\name.json";
+
+        #region Non-Dynamic
+
+        //Non-Dynamic File Path
+
+        //private static string DbPath = @"C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\Files\name.json";
+
+        #endregion
+
+        #region Dynamic
+
+        //Dynamic File Path
+
+        private static string DbPath = Path.GetTempPath();
+
+        #endregion
+
         static void Main(string[] args)
         {
+            #region Dynamic
+
+            //Dynamic File Path
+
+            string databasePath = Path.GetTempPath();
+            string jsonFilePath = "names.json";
+            DbPath = databasePath + jsonFilePath;
+            Console.WriteLine($"Json File is here: {DbPath}");
+
+            #endregion
+
             Names = new List<string>
             {
                 "Tyler",
@@ -27,17 +54,17 @@ namespace _25_10_23
 
         static void WriteToDb()
         {
-            if (!File.Exists(databasePath))
+            if (!File.Exists(DbPath))
             {
-                File.WriteAllText(databasePath, "[]");
+                File.WriteAllText(DbPath, "[]");
             }
             string jsonData = JsonConvert.SerializeObject(Names, Formatting.Indented);
-            File.WriteAllText(databasePath, jsonData);
+            File.WriteAllText(DbPath, jsonData);
         }
 
         static List<string> ReadFromDb()
         {
-            string jsonData = File.ReadAllText(databasePath);
+            string jsonData = File.ReadAllText(DbPath);
             return JsonConvert.DeserializeObject<List<string>>(jsonData);
         }
 
