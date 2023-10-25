@@ -1,0 +1,17 @@
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\bin\Debug\net6.0\25_10_23.exe
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\bin\Debug\net6.0\25_10_23.deps.json
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\bin\Debug\net6.0\25_10_23.runtimeconfig.json
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\bin\Debug\net6.0\25_10_23.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\bin\Debug\net6.0\25_10_23.pdb
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.csproj.AssemblyReference.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.AssemblyInfoInputs.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.AssemblyInfo.cs
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.csproj.CoreCompileInputs.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.csproj.CopyComplete
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\refint\25_10_23.dll
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.pdb
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\25_10_23.genruntimeconfig.cache
+C:\Users\T x\Desktop\Control structure(Conditional)\25_10_23\25_10_23\25_10_23\obj\Debug\net6.0\ref\25_10_23.dll
